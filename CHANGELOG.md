@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## v0.1.0 (2024-09-12)
+
+### Documentation
+
+* docs(mylibrary): add documentation to hello_world function ([`4ab2616`](https://github.com/RPifaut/mylibrary/commit/4ab26165ee523fb65583e149365e7e35e500aea7))
+
+### Feature
+
+* feat(mylibrary): add hello_world2 function ([`2fcd742`](https://github.com/RPifaut/mylibrary/commit/2fcd742244b1429a683cc33b666292a81543e756))
+
 ## v0.0.1 (2024-09-12)
 
 ### Fix
