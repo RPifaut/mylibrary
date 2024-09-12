@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## v1.0.0 (2024-09-12)
+
+### Breaking
+
+* feat: update the code majorly
+
+BREAKING CHANGE: hello_world2 function removed it cannot be used ([`983ab61`](https://github.com/RPifaut/mylibrary/commit/983ab61b4f2e1fff1c8139dc721bf93885e15ffa))
+
 ## v0.1.0 (2024-09-12)
 
 ### Documentation
